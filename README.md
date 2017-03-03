@@ -1,3 +1,5 @@
+__IMPORTANT__ : THIS PROJECT HAS MOVED TO https://github.com/ngorm 
+
 # NGORM
 
  The fork of gorm,The fantastic ORM( Object Relational Mapping) library for Golang, that focus on
